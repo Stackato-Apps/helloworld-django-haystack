@@ -23,6 +23,5 @@ After pushing the application to Stackato, run
 
     $ stackato run ./manage.py syncdb
 
-Then go to /admin, log in with the administrative credentials, then create some notes.
-After you're done, start searching them on elasticsearch by going to /search, and search
-to your heart's content.
+Then go to /admin, log in with the administrative credentials and create some notes.
+After you're done, go to /search and search to your heart's content.
