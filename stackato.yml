@@ -1,3 +1,0 @@
-name: helloworld-django-haystack
-services:
-  ${name}-es: elasticsearch
