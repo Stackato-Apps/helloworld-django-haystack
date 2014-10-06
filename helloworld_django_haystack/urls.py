@@ -10,4 +10,5 @@ urlpatterns = patterns('',
 
     url(r'^admin/', include(admin.site.urls)),
     url(r'^search/', include('haystack.urls')),
+    url(r'', include('haystack.urls')),
 )
