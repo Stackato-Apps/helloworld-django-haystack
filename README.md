@@ -1,9 +1,9 @@
 elasticsearch example
 =====================
 
-This is a sample Django application to demonstrate the [new
+This is a sample Django application to demonstrate the [
 elasticsearch service](https://github.com/ActiveState/stackato-service-elasticsearch.git)
-for Stackato v3.0.1. It uses [the haystack project](http://haystacksearch.org/)
+for Stackato v3.2.1. It uses [the haystack project](http://haystacksearch.org/)
 for implementing a search backend.
 
 # Deploying locally
